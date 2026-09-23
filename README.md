@@ -49,8 +49,5 @@
            
 Конец 
 
-<img width="974" height="757" alt="image" src="https://github.com/user-attachments/assets/92abdb2a-a061-4aa7-8160-432dfe61c0f7" />
-
-
-
-https://app.diagrams.net/#L%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio#%7B%22pageId%22%3A%22X9Jbn9bXhC4xWmbFxQUU%22%7D
+https://app.diagrams.net/#G1cQYoY9z2bgBTRnUj4fFJ-6ux89Ua0iG0#%7B%22pageId%22%3A%22L0ohuUtSw4uomqwe9Hpb%22%7D
+<img width="1664" height="2828" alt="image" src="https://github.com/user-attachments/assets/a8b3e63f-fa43-4baa-8501-d5b1f60654d4" />
